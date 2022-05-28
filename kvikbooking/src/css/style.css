@@ -1,0 +1,103 @@
+html{
+	background-color: #BDE198;
+}
+
+.navbar{
+	background-color: #678d42;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white !important;
+}
+
+.white{
+	color: white;
+}
+
+.color-brand{
+	color: white !important;
+}
+
+.img-resize{
+	height: 230px;
+}
+
+.card-size{
+	margin: auto;
+	width: 50%;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: Roboto, -apple-system, 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+	
+}
+
+.color{
+	background-color: #BDE198;
+}
+
+.p-color{
+	color: #B9CFE3;
+}
+
+.logo{
+	width: 25%;
+	height: 25%;
+}
+
+.banner {
+	width: 15vw;
+	height: 200vh;
+	background-color: #B9CFE3;
+	float: left;
+	border: 2px solid white;
+	border-radius: 10px;
+  }
+
+.resize{
+	width: 15%;
+	height: 10%;
+}
+
+.resize-banner{
+	width: 2%;
+	height: 2%;
+}
+
+.padding-main{
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.padding-bottom-main{
+	padding-bottom: 5%;
+}
+
+.container-cards{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.container-comment{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	background-color: whitesmoke;
+}
+
+.margin-bottom-card{
+	margin-bottom: 1%;
+}
+
+.margin-auto{
+	width: 50%;
+	margin:auto;
+}
